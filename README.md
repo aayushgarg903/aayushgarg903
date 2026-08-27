@@ -56,7 +56,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=⭐+Always+learning+•+Always+building+•+Always+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=⭐+Always+learning+•+Always+building+•+Always+improving" alt="Typing SVG" />
 </div>
 
 ---
@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://github.com/aayushgarg903">
-    <img src="https://github-readme-stats.vercel.app/api?username=aayushgarg903&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=aayushgarg903&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
   <br>
   <br>
